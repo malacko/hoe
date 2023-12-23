@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Empire/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Empire/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Heroes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Heroes/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpeciesAndEndowments/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpeciesAndEndowments/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/base/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
